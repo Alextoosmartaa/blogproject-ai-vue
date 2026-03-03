@@ -40,6 +40,10 @@ npm run dev
 ```sh
 npm run build
 ```
+<img width="1910" height="895" alt="2d78e461-1681-41cf-b0ca-762fec92e186" src="https://github.com/user-attachments/assets/ada56a21-a8f7-4383-8be9-e86f590eac4b" />
+
+<img width="1910" height="895" alt="fa8f4ff4-1a66-4943-84c5-d57105aa9400" src="https://github.com/user-attachments/assets/6cd94ced-dcef-434d-a21c-47e09d342d89" />
+<img width="1910" height="895" alt="a3fdda42-9aef-4443-bd3d-2575e98c609a" src="https://github.com/user-attachments/assets/a7fdc718-978f-470b-b868-792aa8c9bad4" />
 
 ### Lint with [ESLint](https://eslint.org/)
 
